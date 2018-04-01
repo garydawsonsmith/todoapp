@@ -58,7 +58,7 @@ toggleAll: function() {
             this.todos[i].completed = true;
         }
     }
-    }
+    
     this.displayTodos();
 }
 
